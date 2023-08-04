@@ -13,38 +13,41 @@ lightgallery: true
 ---
 
 
-<h2>
-:(fas fa-cloud-download-alt fa-fw): University of Cambridge
+<h3>
+<img style="float:left; max-height:60px"  src="cambridge.png">
+University of Cambridge
   <div style="display: flex; justify-content: space-between;font-size: 20px;">
     <div>Masters in Engineering</div>
     <div>2016 - 2017</div>
   </div>
-</h2>
+</h3>
 
 - Information Engineering, Thesis: “Interactive Touchscreen Displays”
 - Award: Magdalene College Prize for Engineering
 
 ---
 
-<h2>
+<h3>
+<img style="float:left; max-height:60px"  src="cambridge.png">
 University of Cambridge
   <div style="display: flex; justify-content: space-between;font-size: 20px;">
     <div>Batchelors in Engineering</div>
     <div>2013 - 2016</div>
   </div>
-</h2>
+</h3>
 
 - Award: Singapore Institute of Technology Scholarship
 
 ---
 
-<h2>
+<h3>
+<img style="float:left; max-height:60px"  src="tonbridge.png">
 Tonbridge School
   <div style="display: flex; justify-content: space-between;font-size: 20px;">
     <div>AS/A Level</div>
     <div>2011-2013</div>
   </div>
-</h2>
+</h3>
 
 - Triple Mathematics(A\*A\*A*), Physics(A*), Chemistry (A)
 - HMC scholarship of excellence (covering all the tuition fees)
