@@ -36,6 +36,7 @@ University of Cambridge
   </div>
 </h3>
 
+- Electrical and Information Engineering - Class 2:1
 - Award: Singapore Institute of Technology Scholarship
 
 ---
