@@ -12,7 +12,7 @@ theme = "LoveIt"
 #themesDir = "../.."
 
 # website title
-title = "SVTMA"
+title = "Silviu Toma"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "en"
@@ -50,55 +50,64 @@ link = ""
 [menu]
 [[menu.main]]
 weight = 1
-identifier = "posts"
-# you can add extra information before the name (HTML format is supported), such as icons
+identifier = "education"
 pre = ""
-# you can add extra information after the name (HTML format is supported), such as icons
 post = ""
-name = "Posts"
-url = "/posts/"
-# title will be shown when you hover on this menu link
+name = "Education"
+url = "/education/"
 title = ""
 [[menu.main]]
 weight = 2
-identifier = "tags"
+identifier = "experience"
 pre = ""
 post = ""
-name = "Tags"
-url = "/tags/"
+name = "Experience"
+url = "/experience/"
 title = ""
 [[menu.main]]
 weight = 3
-identifier = "categories"
+identifier = "skills"
 pre = ""
 post = ""
-name = "Categories"
-url = "/categories/"
+name = "Skills"
+url = "/skills/"
 title = ""
 [[menu.main]]
 weight = 4
-identifier = "documentation"
+identifier = "patents"
 pre = ""
 post = ""
-name = "Docs"
-url = "/categories/documentation/"
+name = "Patents"
+url = "/categories/patent/"
 title = ""
-[[menu.main]]
-weight = 5
-identifier = "about"
-pre = ""
-post = ""
-name = "About"
-url = "/about/"
-title = ""
-[[menu.main]]
-weight = 6
-identifier = "github"
-pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
-post = ""
-name = ""
-url = "https://github.com/svtma"
-title = "GitHub"
+#[[menu.main]]
+#weight = 5
+#identifier = "posts"
+## you can add extra information before the name (HTML format is supported), such as icons
+##pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
+#pre = ""
+## you can add extra information after the name (HTML format is supported), such as icons
+#post = ""
+#name = "Posts"
+#url = "/posts/"
+## title will be shown when you hover on this menu link
+#title = ""
+#[[menu.main]]
+#weight = 6
+#identifier = "tags"
+#pre = ""
+#post = ""
+#name = "Tags"
+#url = "/tags/"
+#title = ""
+#[[menu.main]]
+#weight = 7
+#identifier = "categories"
+#pre = ""
+#post = ""
+#name = "Categories"
+#url = "/categories/"
+#title = ""
 
 [params]
 # site default theme ["auto", "light", "dark"]
@@ -129,7 +138,7 @@ mobileMode = "auto"
 # URL of the LOGO
 logo = ""
 # title name
-name = "SVTMA"
+name = "home"
 # you can add extra information before the name (HTML format is supported), such as icons
 pre = "<i class='far fa-house-user fa-fw' aria-hidden='true'></i>"
 # you can add extra information after the name (HTML format is supported), such as icons
@@ -223,7 +232,7 @@ avatarURL = "/images/avatar.png"
 # title shown in home page (HTML format is supported)
 title = "Silviu Toma"
 # subtitle shown in home page (HTML format is supported)
-subtitle = "Maker and Innovator"
+subtitle = "Innovator and Maker"
 # whether to use typeit animation for subtitle
 typeit = true
 # whether to show social links
@@ -232,7 +241,7 @@ social = true
 disclaimer = ""
 # Home page posts
 [params.home.posts]
-enable = true
+enable = false
 # special amount of posts in each home posts page
 paginate = 6
 # Social config in home page
@@ -290,7 +299,8 @@ Behance = ""
 Dribbble = ""
 Wordpress = ""
 Vine = ""
-Googlescholar = "https://patents.google.com/?inventor=Silviu+TOMA"
+Googlescholar = ""
+#Googlepatents = "Silviu+TOMA"
 Researchgate = ""
 Mastodon = ""
 Thingiverse = ""
@@ -310,7 +320,7 @@ Plume = ""
 HackTheBox = ""
 RootMe= ""
 Email = "email@me.com"
-RSS = true
+RSS = ""
 #[params.social.Mastodon]
 #id = "@xxxx"
 #prefix = "https://mastodon.technology/"
@@ -686,190 +696,3 @@ page = ["HTML", "MarkDown"]
 section = ["HTML", "RSS"]
 taxonomy = ["HTML", "RSS"]
 taxonomyTerm = ["HTML"]
-
-## Multilingual
-#[languages]
-#[languages.en]
-#weight = 1
-#languageCode = "en"
-#languageName = "English"
-#hasCJKLanguage = false
-#copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-#[languages.en.menu]
-#[[languages.en.menu.main]]
-#weight = 1
-#identifier = "posts"
-#pre = ""
-#post = ""
-#name = "Posts ye"
-#url = "/posts/"
-#title = ""
-#[[languages.en.menu.main]]
-#weight = 2
-#identifier = "tags"
-#pre = ""
-#post = ""
-#name = "Tags"
-#url = "/tags/"
-#title = ""
-#[[languages.en.menu.main]]
-#weight = 3
-#identifier = "categories"
-#pre = ""
-#post = ""
-#name = "Categories"
-#url = "/categories/"
-#title = ""
-#[[languages.en.menu.main]]
-#weight = 4
-#identifier = "documentation"
-#pre = ""
-#post = ""
-#name = "Docs"
-#url = "/categories/documentation/"
-#title = ""
-#[[languages.en.menu.main]]
-#weight = 5
-#identifier = "about"
-#pre = ""
-#post = ""
-#name = "About"
-#url = "/about/"
-#title = ""
-#[[languages.en.menu.main]]
-#weight = 6
-#identifier = "github"
-#pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
-#post = ""
-#name = ""
-#url = "https://github.com/dillonzq/LoveIt"
-#title = "GitHub"
-#[languages.en.params]
-#[languages.en.params.search]
-#enable = true
-#type = "algolia"
-#contentLength = 4000
-#placeholder = ""
-#maxResultLength = 10
-#snippetLength = 30
-#highlightTag = "em"
-#absoluteURL = false
-#[languages.en.params.search.algolia]
-#index = "index.en"
-#appID = "PASDMWALPK"
-#searchKey = "b42948e51daaa93df92381c8e2ac0f93"
-#[languages.en.params.home]
-#rss = 10
-#[languages.en.params.home.profile]
-#enable = true
-#gravatarEmail = ""
-#avatarURL = "/images/avatar.png"
-#title = "Silviu Toma"
-#subtitle = "Innovator and Maker"
-#typeit = true
-#social = true
-#disclaimer = ""
-#[languages.en.params.social]
-#GitHub = "svtma"
-#Twitter = "xxxx"
-#Instagram = "xxxx"
-#Facebook = "xxxx"
-#Telegram = "xxxx"
-#Youtubelegacy = "xxxx"
-#Phone = "555-555-555"
-#Email = "xxxx@xxxx.com"
-#RSS = true
-#[languages.en.params.social.Mastodon]
-#id = "@xxxx"
-#prefix = "https://mastodon.technology/"
-##
-#[languages.zh-cn]
-#weight = 2
-#languageCode = "zh-CN"
-#languageName = "简体中文"
-#hasCJKLanguage = true
-#copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-#[languages.zh-cn.menu]
-#[[languages.zh-cn.menu.main]]
-#weight = 1
-#identifier = "posts"
-#pre = ""
-#post = ""
-#name = "所有文章"
-#url = "/posts/"
-#title = ""
-#[[languages.zh-cn.menu.main]]
-#weight = 2
-#identifier = "tags"
-#pre = ""
-#post = ""
-#name = "标签"
-#url = "/tags/"
-#title = ""
-#[[languages.zh-cn.menu.main]]
-#weight = 3
-#identifier = "categories"
-#pre = ""
-#post = ""
-#name = "分类"
-#url = "/categories/"
-#title = ""
-#[[languages.zh-cn.menu.main]]
-#weight = 4
-#identifier = "documentation"
-#pre = ""
-#name = "文档"
-#url = "/categories/documentation/"
-#title = ""
-#[[languages.zh-cn.menu.main]]
-#weight = 5
-#identifier = "about"
-#pre = ""
-#post = ""
-#name = "关于"
-#url = "/about/"
-#title = ""
-#[[languages.zh-cn.menu.main]]
-#weight = 6
-#identifier = "github"
-#pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
-#post = ""
-#name = ""
-#url = "https://github.com/dillonzq/LoveIt"
-#title = "GitHub"
-#[languages.zh-cn.params]
-#[languages.zh-cn.params.search]
-#enable = true
-#type = "algolia"
-#contentLength = 4000
-#placeholder = ""
-#maxResultLength = 10
-#snippetLength = 50
-#highlightTag = "em"
-#absoluteURL = false
-#[languages.zh-cn.params.search.algolia]
-#index = "index.zh-cn"
-#appID = "PASDMWALPK"
-#searchKey = "b42948e51daaa93df92381c8e2ac0f93"
-#[languages.zh-cn.params.home]
-#rss = 10
-#[languages.zh-cn.params.home.profile]
-#enable = true
-#gravatarEmail = ""
-#avatarURL = "/images/avatar.png"
-#title = ""
-#subtitle = "一个简洁、优雅且高效的 Hugo 主题"
-#typeit = true
-#social = true
-#disclaimer = ""
-#[languages.zh-cn.params.social]
-#GitHub = "xxxx"
-#Weibo = "xxxx"
-#Steam = "xxxx"
-#Zhihu = "xxxx"
-#Douban = "xxxx"
-#Devto = "xxxx"
-#Bilibili = "xxxx"
-#Email = "xxxx@xxxx.com"
-#Phone = "555-555-555"
-#RSS = true
