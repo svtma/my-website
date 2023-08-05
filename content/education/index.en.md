@@ -14,7 +14,7 @@ lightgallery: true
 
 
 <h3>
-<img style="float:left; max-height:60px"  src="cambridge.png">
+<img style="float:left; max-height:50px"  src="cambridge.png">
 University of Cambridge
   <div style="display: flex; justify-content: space-between;font-size: 20px;">
     <div>Masters in Engineering</div>
@@ -28,7 +28,7 @@ University of Cambridge
 ---
 
 <h3>
-<img style="float:left; max-height:60px"  src="cambridge.png">
+<img style="float:left; max-height:50px"  src="cambridge.png">
 University of Cambridge
   <div style="display: flex; justify-content: space-between;font-size: 20px;">
     <div>Batchelors in Engineering</div>
@@ -42,7 +42,7 @@ University of Cambridge
 ---
 
 <h3>
-<img style="float:left; max-height:60px"  src="tonbridge.png">
+<img style="float:left; max-height:55px"  src="tonbridge.png">
 Tonbridge School
   <div style="display: flex; justify-content: space-between;font-size: 20px;">
     <div>AS/A Level</div>

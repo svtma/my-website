@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: "Professional Skills"
+title: "Skills"
 date: 2019-13-01T21:57:40+08:00
 lastmod: 2020-02-01T16:45:40+08:00
 draft: false
@@ -12,20 +12,40 @@ images: []
 lightgallery: true
 ---
 
-
-## Programming Languages
-
-- Kotlin
+### :(fas fa-code fa-fw): Programming
+    Kotlin (Ktor, Kotest, Mockk, Exposed)
+    Java (Spring Boot)
+    Clojure, Python, C++, Verilog, Matlab
+---
+### :(fas fa-database fa-fw): Data
+    Kafka, AWS S3, AWS SQS, AWS SNS
+    Postgres + SQL, XTDB + Datomic
 
 ---
-## Software Architecture
+### :(fa-brands fa-docker): DevOps
+    Kubernetes, Docker, Tilt, Helm
+    Prometheus, Loki, Grafana, Tempo 
+    GitHub, AWS Lambdas
 
-## Hardware Design
+---
+### :(fa-solid fa-microchip): Hardware
+    IoT, High Speed Digital Electronics
+    DSP, BLE, RFID, NFC
+    Rapid Prototyping, FPGA, Raspberry Pi, Arduino, Altium
 
-## Research
+---
+### :(fa-solid fa-flask): Research
+    DSP, Wireless Charging, Magnetic Sensing
+---
+### :(fa-brands fa-atlassian): Management
+    Agile, Rapid Learning Cycles, Jira, OpsGenie
 
-## Management
+---
+### :(fa-solid fa-people-arrows): Interpersonal
+    Leadership, Mentoring, Public Speaking
 
-## Interpersonal
+---
+### :(fa-solid fa-couch): Hobbies
+    Musicology, MPE instruments, Spanish Guitar
 
 

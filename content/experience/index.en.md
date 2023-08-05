@@ -13,13 +13,13 @@ lightgallery: true
 ---
 
 
-<h2>
+<h3>
 Teya
   <div style="display: flex; justify-content: space-between;font-size: 20px;">
     <div>Software Engineer</div>
     <div>2020 - present</div>
   </div>
-</h2>
+</h3>
 
 - Ideated, developed and supported a high-scale Kotlin-based Banking Service which extended Teya’s commercial product offering
 - Enhanced the team’s ability to respond quickly to incidents by leading the integration of observability best practices (logging, tracing, dashboards and alerts) into development and deployment processes
@@ -33,13 +33,13 @@ reduce the company’s liquidity issues (Python, AWS S3 and Lambdas)
 
 ---
 
-<h2>
+<h3>
 Teya
   <div style="display: flex; justify-content: space-between;font-size: 20px;">
     <div>Data Lead</div>
     <div>2020 (5 months)</div>
   </div>
-</h2>
+</h3>
 
 
 - Built and led a team of 7 BI engineers that improved the operational efficiency of the company using data
@@ -47,3 +47,52 @@ visualisation tools leading to an accelerated company growth
 - Led a multi-million investment into a fraud detection company by analysing and operationalising their
 state-of-the-art machine learning algorithms
 
+---
+
+<h3>
+Cambrdige Consultants
+  <div style="display: flex; justify-content: space-between;font-size: 20px;">
+    <div>Senior Electronics Engineer</div>
+    <div>2017 -2020</div>
+  </div>
+</h3>
+
+- Acted as the Technical Lead for a team of 9 engineers and won a multi-million pound IoT consulting project
+- Discovered novel magnetic sensing techniques through Python simulations and mathematical modelling which
+increased the client’s investment in the project by 200%
+- Designed, prototyped, programmed, and ran user tests for state-of-the-art IoT devices using C++
+
+---
+
+<h3>
+Cambridge Touch Technologies
+  <div style="display: flex; justify-content: space-between;font-size: 20px;">
+    <div>Electronics Researcher</div>
+    <div>2016 (3 months)</div>
+  </div>
+</h3>
+
+- Discovered novel algorithms for generating on-screen haptics by simulating and testing piezoelectric materials
+
+---
+
+<h3>
+Epsicom, Romania
+  <div style="display: flex; justify-content: space-between;font-size: 20px;">
+    <div>Electronics Engineer</div>
+    <div>2015 (2 months)</div>
+  </div>
+</h3>
+
+- Ideated, designed, prototyped, programmed, and tested a device to improve acoustic guitar playing
+---
+
+<h3>
+University of Craiova, Department of Nanotechnology
+  <div style="display: flex; justify-content: space-between;font-size: 20px;">
+    <div>Researcher</div>
+    <div>2015 (1 month)</div>
+  </div>
+</h3>
+
+- Furthered the exploration of the properties of liquid crystal displays and carbon nanotubes
