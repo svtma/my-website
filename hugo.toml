@@ -50,14 +50,6 @@ link = ""
 [menu]
 [[menu.main]]
 weight = 1
-identifier = "education"
-pre = ""
-post = ""
-name = "Education"
-url = "/education/"
-title = ""
-[[menu.main]]
-weight = 2
 identifier = "experience"
 pre = ""
 post = ""
@@ -65,12 +57,20 @@ name = "Experience"
 url = "/experience/"
 title = ""
 [[menu.main]]
-weight = 3
+weight = 2
 identifier = "skills"
 pre = ""
 post = ""
 name = "Skills"
 url = "/skills/"
+title = ""
+[[menu.main]]
+weight = 3
+identifier = "education"
+pre = ""
+post = ""
+name = "Education"
+url = "/education/"
 title = ""
 [[menu.main]]
 weight = 4
@@ -108,6 +108,14 @@ title = ""
 #name = "Categories"
 #url = "/categories/"
 #title = ""
+#[[menu.main]]
+#weight = 7
+#identifier = "books"
+#pre = ""
+#post = ""
+#name = "Book Reccomendations"
+#url = "/categories/books/"
+#title = ""
 
 [params]
 # site default theme ["auto", "light", "dark"]
@@ -138,7 +146,7 @@ mobileMode = "auto"
 # URL of the LOGO
 logo = ""
 # title name
-name = "home"
+name = "Silviu"
 # you can add extra information before the name (HTML format is supported), such as icons
 pre = "<i class='far fa-house-user fa-fw' aria-hidden='true'></i>"
 # you can add extra information after the name (HTML format is supported), such as icons
@@ -184,7 +192,7 @@ rss = 10
 # App icon config
 [params.app]
 # optional site title override for the app when added to an iOS home screen or Android launcher
-title = "home"
+title = "Silviu Toma"
 # whether to omit favicon resource links
 noFavicon = false
 # modern SVG favicon to use in place of older style .png and .ico files
@@ -238,7 +246,7 @@ typeit = true
 # whether to show social links
 social = true
 # disclaimer (HTML format is supported)
-disclaimer = ""
+disclaimer = "Software Engineer excited about bringing mathematical innovation into the realm of Financial Systems."
 # Home page posts
 [params.home.posts]
 enable = false
@@ -516,7 +524,7 @@ darkTheme = "dark"
 images = []
 # Publisher info
 [params.page.seo.publisher]
-name = "xxxx"
+name = "Silviu Toma"
 logoUrl = "/images/avatar.png"
 
 # TypeIt config

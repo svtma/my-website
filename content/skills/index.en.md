@@ -13,9 +13,10 @@ lightgallery: true
 ---
 
 ### :(fas fa-code fa-fw): Programming
-    Kotlin (Ktor, Kotest, Mockk, Exposed)
+    Kotlin (Ktor, Exposed, Micrometer, Kotest, Mockk)
     Java (Spring Boot)
-    Clojure, Python, C++, Verilog, Matlab
+    Python (FastAPI, Uvicorn)
+    Clojure, C++, Verilog, Matlab
 ---
 ### :(fas fa-database fa-fw): Data
     Kafka, AWS S3, AWS SQS, AWS SNS
@@ -23,8 +24,8 @@ lightgallery: true
 
 ---
 ### :(fa-brands fa-docker): DevOps
-    Kubernetes, Docker, Tilt, Helm
-    Prometheus, Loki, Grafana, Tempo 
+    Kubernetes, Docker, Helm, Tilt
+    OpenTelemetry, Prometheus, Loki, Grafana, Tempo 
     GitHub, AWS Lambdas
 
 ---
@@ -35,10 +36,10 @@ lightgallery: true
 
 ---
 ### :(fa-solid fa-flask): Research
-    DSP, Wireless Charging, Magnetic Sensing
+    DSP, Wireless Charging, Magnetic Sensing, Jupyter Notebook
 ---
 ### :(fa-brands fa-atlassian): Management
-    Agile, Rapid Learning Cycles, Jira, OpsGenie
+    Agile, Rapid Learning Cycles, Jira, OpsGenie, Confluence
 
 ---
 ### :(fa-solid fa-people-arrows): Interpersonal

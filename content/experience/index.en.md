@@ -50,7 +50,7 @@ state-of-the-art machine learning algorithms
 ---
 
 <h3>
-Cambrdige Consultants
+Cambridge Consultants
   <div style="display: flex; justify-content: space-between;font-size: 20px;">
     <div>Senior Electronics Engineer</div>
     <div>2017 -2020</div>
@@ -61,6 +61,7 @@ Cambrdige Consultants
 - Discovered novel magnetic sensing techniques through Python simulations and mathematical modelling which
 increased the client’s investment in the project by 200%
 - Designed, prototyped, programmed, and ran user tests for state-of-the-art IoT devices using C++
+- Organised and ran company-wide hackathons
 
 ---
 
@@ -95,4 +96,4 @@ University of Craiova, Department of Nanotechnology
   </div>
 </h3>
 
-- Furthered the exploration of the properties of liquid crystal displays and carbon nanotubes
+- Furthered the exploration of liquid crystal displays and carbon nanotube properties
