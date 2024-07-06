@@ -13,33 +13,35 @@ lightgallery: true
 ---
 
 ### :(fas fa-code fa-fw): Programming
+    Clojure (Interceptors, Integrant, Spec)
     Kotlin (Ktor, Exposed, Micrometer, Kotest, Mockk)
+    Python (FastAPI, Uvicorn, Jupyter, Pandas, Scikit-learn)
     Java (Spring Boot)
-    Python (FastAPI, Uvicorn)
-    Clojure, C++, Verilog, Matlab
+    C++, Verilog, Matlab
 ---
 ### :(fas fa-database fa-fw): Data
     Kafka, AWS S3, AWS SQS, AWS SNS
-    Postgres + SQL, XTDB + Datomic
+    Postgres + SQL, XTDB + Datalog
 
 ---
 ### :(fa-brands fa-docker): DevOps
-    Kubernetes, Docker, Helm, Tilt
+    Kubernetes, Docker, Helm, Tilt, Terraform
+    AWS ECS, Lambdas, S3, CloudWatch
     OpenTelemetry, Prometheus, Loki, Grafana, Tempo 
-    GitHub, AWS Lambdas
+    GitHub, GitLab
 
 ---
 ### :(fa-solid fa-microchip): Hardware
+    FPGA, Raspberry Pi, Arduino, Rapid Prototyping, Altium
     IoT, High Speed Digital Electronics
     DSP, BLE, RFID, NFC
-    Rapid Prototyping, FPGA, Raspberry Pi, Arduino, Altium
 
 ---
 ### :(fa-solid fa-flask): Research
     DSP, Wireless Charging, Magnetic Sensing, Jupyter Notebook
 ---
 ### :(fa-brands fa-atlassian): Management
-    Agile, Rapid Learning Cycles, Jira, OpsGenie, Confluence
+    Agile, Rapid Learning Cycles, Jira, OpsGenie, Confluence, Notion
 
 ---
 ### :(fa-solid fa-people-arrows): Interpersonal
