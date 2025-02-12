@@ -24,7 +24,7 @@ languageName = "English"
 hasCJKLanguage = false
 
 # default amount of posts in each pages
-paginate = 12
+pagination.pagerSize = 12
 # google analytics code [UA-XXXXXXXX-X]
 googleAnalytics = ""
 # copyright description used only for seo schema
@@ -174,7 +174,7 @@ license= '<a rel="license external nofollow noopener noreffer" href="https://cre
 # Section (all posts) page config
 [params.section]
 # special amount of posts in each section page
-paginate = 20
+pagination.pagerSize = 20
 # date format (month and day)
 dateFormat = "01-02"
 # amount of RSS pages
@@ -183,7 +183,7 @@ rss = 10
 # List (category or tag) page config
 [params.list]
 # special amount of posts in each list page
-paginate = 20
+pagination.pagerSize = 20
 # date format (month and day)
 dateFormat = "01-02"
 # amount of RSS pages
@@ -251,7 +251,7 @@ disclaimer = "Software Engineer excited about bringing mathematical innovation i
 [params.home.posts]
 enable = false
 # special amount of posts in each home posts page
-paginate = 6
+pagination.pagerSize = 6
 # Social config in home page
 [params.social]
 GitHub = "svtma"
