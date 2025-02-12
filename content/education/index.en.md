@@ -50,7 +50,7 @@ Tonbridge School
   </div>
 </h3>
 
-    • Triple Mathematics(A\*A\*A*), Physics(A*), Chemistry (A)
+    • Triple Mathematics(A*A*A*), Physics(A*), Chemistry (A)
     • HMC scholarship of excellence (covering all the tuition fees)
 
 
