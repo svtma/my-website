@@ -148,7 +148,7 @@ logo = ""
 # title name
 name = "Silviu"
 # you can add extra information before the name (HTML format is supported), such as icons
-pre = "<i class='far fa-house-user fa-fw' aria-hidden='true'></i>"
+pre = "<i class='fa-solid fa-laptop-code fa-fw' aria-hidden='true'></i>"
 # you can add extra information after the name (HTML format is supported), such as icons
 post = ""
 # whether to use typeit animation for title name
@@ -246,7 +246,7 @@ typeit = true
 # whether to show social links
 social = true
 # disclaimer (HTML format is supported)
-disclaimer = "Software Engineer excited about bringing mathematical innovation into the realm of Financial Systems."
+disclaimer = "Software Engineer excited about turgning mathematical innovation into real-world applications."
 # Home page posts
 [params.home.posts]
 enable = false
