@@ -41,7 +41,7 @@ enableEmoji = true
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Author config
-[author]
+[params.author]
 name = "Silviu Toma"
 email = ""
 link = ""
