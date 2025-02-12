@@ -14,9 +14,9 @@ lightgallery: true
 
 ### :(fas fa-code fa-fw): Programming
     Clojure (Interceptors, Integrant, Spec)
+    Java (Spring Boot, JUnit)
     Kotlin (Ktor, Exposed, Micrometer, Kotest, Mockk)
     Python (FastAPI, Uvicorn, Jupyter, Pandas, Scikit-learn)
-    Java (Spring Boot)
     C++, Verilog, Matlab
 ---
 ### :(fas fa-database fa-fw): Data
