@@ -22,8 +22,8 @@ University of Cambridge
   </div>
 </h3>
 
-- Information Engineering, Thesis: “Interactive Touchscreen Displays”
-- Award: Magdalene College Prize for Engineering
+    • Information Engineering, Thesis: “Interactive Touchscreen Displays”
+    • Award: Magdalene College Prize for Engineering
 
 ---
 
@@ -36,8 +36,8 @@ University of Cambridge
   </div>
 </h3>
 
-- Electrical and Information Engineering - Class 2:1
-- Award: Singapore Institute of Technology Scholarship
+    • Electrical and Information Engineering - Class 2:1
+    • Award: Singapore Institute of Technology Scholarship
 
 ---
 
@@ -50,8 +50,8 @@ Tonbridge School
   </div>
 </h3>
 
-- Triple Mathematics(A\*A\*A*), Physics(A*), Chemistry (A)
-- HMC scholarship of excellence (covering all the tuition fees)
+    • Triple Mathematics(A\*A\*A*), Physics(A*), Chemistry (A)
+    • HMC scholarship of excellence (covering all the tuition fees)
 
 
 
