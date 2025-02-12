@@ -23,8 +23,7 @@ nyāya
     • Owned and delivered the main 2024 client release by leading a team of 3 senior engineers
     • Managed database migrations to Postgres which increased the system recovery time by 10X
     • Streamlined the development process by building a local Tilt and K8s environment for our microservices
-    • Improved the code maintainability by re-architecting a major service using Domain Driven Design, halving
-    pull request duration
+    • Improved the code maintainability by re-architecting a major service using Domain Driven Design, halving pull request duration
 
 ---
 
