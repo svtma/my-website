@@ -1,3 +1,8 @@
 // ==============================
 // Custom style
 // ==============================
+
+pre {
+  white-space: pre-wrap; /* allow wrapping inside code blocks */
+  word-break: break-word; /* allow breaking long words */
+}

@@ -38,10 +38,12 @@ lightgallery: true
 
 ---
 ### :(fa-solid fa-flask): Research
-    Digital Signal Processing, Wireless Charging, Magnetic Sensing, Haptics, Jupyter Notebook
+    Digital Signal Processing, Wireless Charging
+    Magnetic Sensing, Haptics, Jupyter Notebook
 ---
 ### :(fa-brands fa-atlassian): Management
-    Agile, Rapid Learning Cycles, Jira, OpsGenie, PagerDuty, Confluence, Notion
+    Agile, Rapid Learning Cycles, Jira
+    OpsGenie, PagerDuty, Confluence, Notion
 
 ---
 ### :(fa-solid fa-people-arrows): Interpersonal
